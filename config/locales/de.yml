@@ -1,0 +1,6 @@
+de:
+  field_default_assignee: "voreingestellt zugewiesen an"
+  default_assign_text_settings: "Optionen"
+  default_assign_settings_help: "voreingestellt zugewiesen an bei neuen Projekten"
+  label_user: "Benutzer"
+  
